@@ -1,2 +1,2 @@
-# Clothing-Store
-Backend of a Clothing Store. Built using Express.js and MongoDB. Implemented all the best practices for security and clean code.
+# Object Detection and Live streaming
+Yolo v11 + WebRTC server on Raspberry pi4 for low latency streaming and actuation.
